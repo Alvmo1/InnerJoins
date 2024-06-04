@@ -1,4 +1,5 @@
 # InnerJoins
+```sql
 mysql> INSERT INTO Table1 (ID, Value)
     -> SELECT 1, 'First'
     -> UNION ALL
